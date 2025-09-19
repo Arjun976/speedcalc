@@ -1,5 +1,5 @@
 import React from 'react'
-import Speedcalc from './component/speedcalc'
+import Speedcalc from './component/Speedcalc'
 
 import './App.css'
 
